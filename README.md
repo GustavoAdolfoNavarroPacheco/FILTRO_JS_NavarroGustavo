@@ -12,13 +12,13 @@ El diseño de la página se ha centrado en la **usabilidad** y la **accesibilida
 1. **Clona este repositorio**:
 
 ```bash
-git clone https://github.com/GustavoAdolfoNavarroPacheco/PROYECTO-FILTRO_NavarroGustavo_VelandiaJuan
+git clone https://github.com/GustavoAdolfoNavarroPacheco/FILTRO_JS_NavarroGustavo
 ```
 
 2. **Navega al directorio del proyecto:**:
 
 ```bash
-cd PROYECTO-FILTRO_NavarroGustavo_VelandiaJuan
+cd FILTRO_JS_NavarroGustavo
 ```
 
 
